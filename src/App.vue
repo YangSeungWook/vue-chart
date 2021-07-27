@@ -3,6 +3,7 @@
     <h1>Chart.js</h1>
     <BarChart v-bind:propsdata="chartDataSet"></BarChart>
     <LineChart></LineChart>
+    체리픽 테스트1
   </div>
 </template>
 
